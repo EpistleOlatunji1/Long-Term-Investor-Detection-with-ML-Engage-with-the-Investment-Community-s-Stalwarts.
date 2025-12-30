@@ -1,0 +1,2 @@
+# Long-Term-Investor-Detection-with-ML-Engage-with-the-Investment-Community-s-Stalwarts.
+EliteBank aims to improve its marketing strategy by using data analytics to identify prospective long-term depositors and investors. By predicting high-value clients in advance, the bank can deploy targeted incentives and optimize marketing efforts, reducing waste and improving customer retention and profitability.
